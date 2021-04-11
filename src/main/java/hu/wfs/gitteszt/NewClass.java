@@ -10,5 +10,7 @@ package hu.wfs.gitteszt;
  * @author Beci
  */
 public class NewClass {
-    
+    public static void main(String[] args) throws Throwable {
+        
+    }
 }
